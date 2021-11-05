@@ -13,9 +13,9 @@ Un smart contract est une transaction dont l'exécution est sécurisée via une 
 
 **Méthodologie :**
 Pour réaliser notre projet, nous allons :
-1) collecter des données pour déterminer les variables explicatives du prix de l'immobilier (analyse descriptive).
-2) coder un algorithme de valorisation des biens immobiliers sur la base de données externes (modélisation)
-3) coder un algorithme de tokenisation pouvant être utilisé dans un smart contract
+1) collecter des données pour déterminer les variables explicatives du prix de l'immobilier (analyse descriptive) ;
+2) coder un algorithme de valorisation des biens immobiliers sur la base de données externes (modélisation) ;
+3) coder un algorithme de tokenisation pouvant être utilisé dans un smart contract.
 
 **Données et retraitement :**
 ​Nous procéderons au nettoyage de différentes données : historique des montants des loyers et des transactions foncières (data.gouv), données macroéconomiques (inflation, croissance, consommation énergétique). Nous tenterons également de réaliser du scrapping (transaction immobilières ou tweets, par exemple).
