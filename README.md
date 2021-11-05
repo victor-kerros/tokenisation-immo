@@ -1,5 +1,6 @@
 # tokenisation-immo
-Projet dans le cadre du cours "Python pour le Data Scientist" (2A ENSAE)
+
+### Projet dans le cadre du cours "Python pour le Data Scientist" (2A ENSAE).
 
 **Problématique :**
 Dans un contexte d'explosion des prix de l'immobilier (+ 90 % en prix réel en France sur la période 2000-2020 selon l'OCDE), les frais d'agences représentent un coût de plus en plus conséquent (5 à 10 % du bien). La technologie Blockhain, utilisée dans l'immobilier depuis le 25 juin 2019, permet de réaliser, via la tokenisation, des transactions plus rapides, plus sûres, transparentes, à moindres coûts et en se passant de tiers de confiance.
