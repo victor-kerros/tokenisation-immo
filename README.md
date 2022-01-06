@@ -2,6 +2,9 @@
 
 ### Projet dans le cadre du cours "Python pour le Data Scientist" (2A ENSAE).
 
+**Auteurs**
+HOUAIRI Leo / JOUBERT Eloi / KERROS Victor
+
 **Fichier principal**
 Le fichier principal de ce dossier est **valo_immo**. Les 2 autres notebooks sont mentionnés à l'intérieur de celui-ci. 
 *cleaning_dvf* traite d'une problématique de lignes dupliquées dans le fichier de donnnées que nous utilisons et que nous n'avons pas totalement résolue.
