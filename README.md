@@ -15,9 +15,9 @@ Dans un contexte d'explosion des prix de l'immobilier (+ 90 % en prix réel en F
 Source : https://www.wavestone.com/fr/insight/blockchain-transaction-immobiliere/​ 
 
 **Objectif :**
-L'objectif de ce projet est de réaliser un algorithme de tokenisation de biens immobiliers qui pourra être utiliser pour les échanger dans un smart contract.
+L'objectif de ce projet est de réaliser un algorithme de tokenisation de biens immobiliers qui pourra être utilisé pour les échanger dans un smart contract.
 
-**Réalisatinon effective**
+**Réalisation effective**
 Nous ne sommes finalement pas allés jusqu'à la partie smart contract et nous sommes contentés de la prédiction de la valeur de biens immobiliers en fonction de leurs caractéristiques
 
 **Point technique sur les smart contracts :**
